@@ -91,6 +91,16 @@ Em trabalhos futuros, técnicas para lidar com essa demanda computacional poder�
 ## Autor
 
 **Sergio Tabarez**
+
+[www.linkedin.com/in/sergiotabarez]
+
+[sergio.tabarez@gmail.com]
+
+[https://github.com/sergiotabarez/lottery-prediction-model]
+
+## Licença
+
+Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 [Link para o seu perfil do LinkedIn](https://www.linkedin.com/in/seu-perfil-aqui)
 [Link para seu perfil do GitHub](https://github.com/sergiotabarez)
 
