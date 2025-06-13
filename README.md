@@ -62,26 +62,17 @@ Este projeto foi desenvolvido e otimizado para ser executado no [Google Colab](h
 ## Resultados e Análise
 
 * **Gráfico de Perda (Loss History):** Demonstra a convergência do modelo durante o treinamento.
-    ![Gráfico de Perda](images/Histórico_perda.png) 
-    *(Altere o caminho se suas imagens não estiverem na pasta `images/`)*
+    ![Gráfico de Perda](images/grafico_perda.png) 
+   
+* **Exemplo do Modelo** 
+    ![Exemplo de Código](images/modelo.png)
 
-* **Exemplo de Estrutura do Código:** Captura de tela de parte do código.
-    ![Exemplo de Código](images/image_a998d4.png)
+* **Bibliotecas**
+    ![Resultados da Simulação](images/bibliotecas.png)
 
-* **Exemplo de Resultados da Simulação:** Tabela com resultados da simulação de apostas.
-    ![Resultados da Simulação](images/image_a994d7.png)
+## Observações
 
-## Observações e Próximos Passos
-
-Este modelo demonstra a viabilidade do uso de redes LSTM para prever números da Lotofácil. Os resultados obtidos são promissores, mas é importante observar que o treinamento e os testes foram realizados com um subconjunto dos dados históricos dos sorteios (apenas 100).
-
-Para obter o máximo desempenho e precisão, o ideal seria treinar o modelo com o conjunto completo de dados de todos os sorteios. No entanto, essa abordagem exigiria um poder computacional significativamente maior (mais tempo de processamento e possivelmente hardware mais potente).
-
-Em trabalhos futuros, técnicas para lidar com essa demanda computacional poderão ser exploradas, como:
-* Uso de GPUs mais robustas.
-* Otimização de código para maior eficiência.
-* Uso de técnicas de amostragem inteligente de dados históricos.
-* Exploração de outras arquiteturas de Deep Learning ou Ensemble Learning.
+Este modelo híbrido Transformer-LSTM representa um avanço significativo na tentativa de modelar a Lotofácil. Embora o projeto utilize um subconjunto de 100 sorteios para demonstração e otimização do tempo de treinamento, a arquitetura foi projetada para escalar.
 
 ## Autor
 
@@ -92,12 +83,6 @@ Em trabalhos futuros, técnicas para lidar com essa demanda computacional poder�
 [sergio.tabarez@gmail.com]
 
 [https://github.com/sergiotabarez/lottery-prediction-model]
-
-## Licença
-
-Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-[Link para o seu perfil do LinkedIn](https://www.linkedin.com/in/seu-perfil-aqui)
-[Link para seu perfil do GitHub](https://github.com/sergiotabarez)
 
 ## Licença
 
