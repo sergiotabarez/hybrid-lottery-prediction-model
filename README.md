@@ -31,11 +31,6 @@ Esta arquitetura tira proveito das strengths de ambas as abordagens para uma an�
 * `Lotofacil-original100.xlsx: Conjunto de dados de exemplo (subconjunto de 100 sorteios) utilizado para o treinamento e teste do modelo.
 * `images/`: Pasta contendo gráficos de desempenho gerados.
 
-
-
-
-
-
 ## Como Executar o Projeto
 
 Este projeto foi desenvolvido e otimizado para ser executado no [Google Colab](https://colab.research.google.com/) devido às suas dependências específicas e acesso a GPUs para treinamento eficiente.
