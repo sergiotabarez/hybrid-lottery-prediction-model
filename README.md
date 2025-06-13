@@ -26,7 +26,7 @@ Esta arquitetura tira proveito das strengths de ambas as abordagens para uma an�
 
 ## Estrutura do Projeto
 
-* `Transformer_LSTM_Lotofacil.ipynb`: O notebook principal contendo todo o código-fonte do modelo, treinamento, avaliação e simulações.
+* `Transformer_LSTM_Lotofacil.py`: O notebook principal contendo todo o código-fonte do modelo, treinamento, avaliação e simulações.
 * `requirements.txt`: Lista das bibliotecas Python e suas versões necessárias para a execução do projeto.
 * `Lotofacil-original100.xlsx: Conjunto de dados de exemplo (subconjunto de 100 sorteios) utilizado para o treinamento e teste do modelo.
 * `images/`: Pasta contendo gráficos de desempenho gerados.
